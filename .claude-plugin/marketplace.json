@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "claude-qwen-tts",
-      "source": ".",
+      "source": "./plugins/claude-qwen-tts",
       "description": "Qwen3-TTS based high-quality Korean/multilingual text-to-speech synthesis. Voice clone, voice design, and script-to-audio conversion.",
       "version": "1.0.0",
       "author": {
