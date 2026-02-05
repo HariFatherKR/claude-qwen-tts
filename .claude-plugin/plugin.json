@@ -1,0 +1,11 @@
+{
+  "name": "claude-qwen-tts",
+  "description": "Qwen3-TTS based high-quality Korean/multilingual text-to-speech synthesis plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "HariFatherKR",
+    "url": "https://github.com/HariFatherKR"
+  },
+  "repository": "https://github.com/HariFatherKR/claude-qwen-tts",
+  "keywords": ["tts", "qwen", "voice", "korean", "audio", "speech", "synthesis"]
+}

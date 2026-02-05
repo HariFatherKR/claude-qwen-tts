@@ -1,0 +1,6 @@
+torch>=2.0.0
+qwen-tts
+soundfile
+librosa
+pyyaml
+numpy
